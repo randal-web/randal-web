@@ -8,4 +8,4 @@ My main technologies are Java, TypeScript, JavaScript, Python, and PHP. I use th
 
 Privately I've done several projects that I use in my daily life, but publicly my greatest pride is [this ecommerce site](https://prolimk.com.mx/), which was my first big project.
 
-If you want to learn more about me or my projects, I invite you to check out my [portfolio](https://tu-portfolio.com) or contact me through my links!
+If you want to learn more about me or my projects, I invite you to check out my [portfolio](http://randal.orbu.mx/) or contact me through my links!
